@@ -59,3 +59,6 @@ navigation.qmltypespage = Qt Charts QML Types
 # Auto-generate navigation linking based on "Qt Charts module topics":
 navigation.toctitles = "Qt Charts module topics"
 navigation.toctitles.inclusive = false
+
+# Allow zero warnings when testing documentation in CI
+warninglimit = 0
